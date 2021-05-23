@@ -8,4 +8,8 @@ System.out.println("Arun");
 
 
 }
+@Test
+private void Second() {
+System.out.println("Prasath");
+}
 }
